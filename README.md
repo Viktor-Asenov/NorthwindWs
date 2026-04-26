@@ -82,7 +82,7 @@ Update the connection string in `appsettings.json`:
 ```json
 {
   "ConnectionStrings": {
-	"NorthwindConnection": "Server=(localdb)\\mssqllocaldb;Database=Northwind;Trusted_Connection=True;MultipleActiveResultSets=true"
+	"NorthwindConnection": "Server=.;Database=Northwind;Trusted_Connection=True;TrustServerCertificate=True"
   }
 }
 ```
