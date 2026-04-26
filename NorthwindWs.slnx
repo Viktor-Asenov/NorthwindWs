@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/Data/">
+    <Project Path="NorthwindWs.Data/NorthwindWs.Data.csproj" />
+  </Folder>
+  <Folder Name="/Services/">
+    <Project Path="NorthwindWs.Services/NorthwindWs.Services.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="instructions.md" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="NorthwindWs.Tests/NorthwindWs.Tests.csproj" />
+  </Folder>
+  <Folder Name="/Web/">
+    <Project Path="NorthwindWs.Api/NorthwindWs.Api.csproj" />
+  </Folder>
+</Solution>
